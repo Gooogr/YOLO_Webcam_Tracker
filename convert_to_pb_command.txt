@@ -1,0 +1,5 @@
+python convert_weights_pb.py \
+--class_names "./model_files/obj.names" \
+--weights_file "./model_files/yolov3-tiny-face-palms.weights" \
+--data_format "NHWC" \
+--tiny
