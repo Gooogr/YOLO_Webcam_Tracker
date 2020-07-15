@@ -12,7 +12,7 @@ python3 convert_weights_pb.py \
 --tiny
 ```
 ### Google Colab demo
-Pass
+[Folder link](https://drive.google.com/drive/folders/1RFHrPlAMVE79_sUVVO9GyzVmh1E6oOry?usp=sharing)
 
 ### Run
 ```python app.py```
