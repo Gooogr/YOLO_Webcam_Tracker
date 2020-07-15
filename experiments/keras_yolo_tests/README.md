@@ -1,1 +1,0 @@
-YOLO v3 repo: https://github.com/experiencor/keras-yolo3
