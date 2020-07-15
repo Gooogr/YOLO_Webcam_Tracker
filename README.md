@@ -11,6 +11,8 @@ python3 convert_weights_pb.py \
 --data_format NHWC \
 --tiny
 ```
+### Google Colab demo
+Pass
 
 ### Run
 ```python app.py```
