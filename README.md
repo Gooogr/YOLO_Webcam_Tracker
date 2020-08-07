@@ -1,15 +1,7 @@
 ## Object detection web-page based on flask, opencv and tiny YOLO
 
 
-### Convert weights
-copy weights and names files into ./tensorflow-yolo-v3/model_files
-```
-cd tensorflow-yolo-v3 &&
-python3 convert_weights_pb.py \
---class_names ./model_files/obj.names \
---weights_file ./model_files/yolov3-tiny-face-palms.weights \
---data_format NHWC \
---tiny
+**Tiny YOLOv4 + OpenCV version**
 ```
 
 ### Run
